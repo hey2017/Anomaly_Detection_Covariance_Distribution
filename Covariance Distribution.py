@@ -15,7 +15,6 @@ os.chdir(directory....)
 df2 = pd.read_csv('Housing_Data.csv')
 
 #%%
-#------------Isolationforest
 
 data = df2.values
 
